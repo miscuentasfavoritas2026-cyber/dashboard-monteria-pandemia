@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+openpyxl
+folium
+streamlit-folium
+reportlab
+kaleido
+pillow
